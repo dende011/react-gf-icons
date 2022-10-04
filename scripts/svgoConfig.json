@@ -1,6 +1,6 @@
 {
   "plugins": [
-    { "removeTitle": false },
+    { "removeTitle": true },
     { "removeViewBox": false },
     { "removeDesc": false },
     { "cleanupIDs": false },
