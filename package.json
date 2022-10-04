@@ -1,0 +1,79 @@
+{
+  "name": "react-gf-icons",
+  "version": "1.0.0",
+  "description": "A react icons library.",
+  "author": "Leonardo Morales <leodavid300@hotmail.com>",
+  "contributors": [
+    "Leonardo Morales <leodavid300@hotmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dende011/react-gf-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dende011/react-gf-icons/issues"
+  },
+  "homepage": "https://github.com/dende011/react-gf-icons#readme",
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w",
+    "generate:icons": "svgr --icon --typescript --svgo-config ./scripts/svgoConfig.json -d ./src ./resources/icons"
+  },
+  "peerDependencies": {
+    "react": ">= 16.8.0 < 2",
+    "react-dom": ">= 16.8.0 < 2"
+  },
+  "devDependencies": {
+    "@svgr/babel-plugin-remove-jsx-attribute": "^5.4.0",
+    "@svgr/cli": "^5.4.0",
+    "@svgr/core": "^5.4.0",
+    "@svgr/plugin-svgo": "^5.4.0",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rollup": "^2.10.5",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "typescript": "^3.9.3"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "typescript",
+    "npm",
+    "a11y",
+    "accessibility",
+    "icons",
+    "gf-icons",
+    "open-source",
+    "react-icons",
+    "web-accessibility"
+  ],
+  "tags": [
+    "react",
+    "react-component",
+    "typescript",
+    "npm",
+    "a11y",
+    "accessibility",
+    "icons",
+    "gf-icons",
+    "open-source",
+    "react-icons",
+    "web-accessibility"
+  ],
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0"
+  }
+}
