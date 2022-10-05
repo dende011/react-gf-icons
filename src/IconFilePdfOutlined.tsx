@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from "react";
 
 function SvgIconFilePdfOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
@@ -19,7 +19,7 @@ function SvgIconFilePdfOutlined(props: React.SVGProps<SVGSVGElement>) {
         d="M318.22 446.36c-.77 6.44-1.1 12.97-2.38 19.3-3.83 18.92-13.07 26.76-32.09 27.85-29.42 1.69-29.42 1.69-29.42-27.7 0-18.64.3-37.3-.1-55.93-.2-9.37 3.38-12.99 12.85-13.43 37.66-1.72 50.6 10.77 51.14 49.91zM141.34 439.69c-19.64-.24-19.66-.24-19.63-20.3.01-4.77.07-9.54.26-14.3.15-3.76 1.61-7.26 5.65-7.64 12.5-1.18 25.25-2.84 37.02 3.11 7.77 3.93 10.47 11.31 9.8 19.73-.74 9.38-6.49 15.16-15.09 17.44-5.77 1.53-11.99 1.37-18.01 1.96z"
       />
     </svg>
-  )
+  );
 }
 
-export default SvgIconFilePdfOutlined
+export default SvgIconFilePdfOutlined;
