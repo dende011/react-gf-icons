@@ -1,6 +1,6 @@
 {
   "name": "react-gf-icons",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A react icons library.",
   "author": "Leonardo Morales <leodavid300@hotmail.com>",
   "contributors": [
@@ -72,8 +72,5 @@
     "open-source",
     "react-icons",
     "web-accessibility"
-  ],
-  "dependencies": {
-    "@ant-design/icons": "^4.7.0"
-  }
+  ]
 }
