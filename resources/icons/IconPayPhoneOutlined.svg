@@ -1,10 +1,12 @@
-<svg version="1.1" id="PayPhone" xmlns="http://www.w3.org/2000/svg"
+<?xml version="1.0" standalone="no"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="1em"
  height="1em"
- fill="currentColor"  
- viewBox="0 0 512.000000 512.000000">
+ fill="currentColor"  viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
 
-<g>
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+stroke="none">
 <path d="M663 5099 c-327 -54 -599 -330 -652 -660 -15 -89 -15 -3669 0 -3758
 54 -335 325 -606 660 -660 41 -7 431 -11 1097 -11 1135 0 1104 -2 1261 61 170
 68 323 208 405 371 56 112 82 209 91 345 l7 100 79 7 c227 19 555 124 658 211
