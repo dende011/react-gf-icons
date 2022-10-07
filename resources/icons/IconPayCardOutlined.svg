@@ -1,12 +1,10 @@
-<?xml version="1.0" standalone="no"?>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<svg version="1.1" id="PayCard" xmlns="http://www.w3.org/2000/svg"
  width="1em"
  height="1em"
- fill="currentColor"  viewBox="0 0 512.000000 512.000000"
- preserveAspectRatio="xMidYMid meet">
+ fill="currentColor"  
+ viewBox="0 0 512.000000 512.000000">
 
-<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
- stroke="none">
+<g>
 <path d="M2196 5104 c-151 -37 -279 -159 -326 -313 -16 -51 -20 -92 -20 -210
 l0 -147 -590 -634 -590 -635 0 -1582 0 -1583 945 0 945 0 0 353 0 352 318 317
 317 317 445 3 c440 3 446 3 503 27 132 52 237 164 280 296 l22 70 0 1500 0

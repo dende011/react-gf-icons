@@ -1,13 +1,10 @@
-<?xml version="1.0" standalone="no"?>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<svg version="1.1" id="AccountState" xmlns="http://www.w3.org/2000/svg"
  width="1em"
  height="1em"
  fill="currentColor"
-  viewBox="0 0 512.000000 512.000000"
- preserveAspectRatio="xMidYMid meet">
+ viewBox="0 0 512.000000 512.000000">
 
-<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
- stroke="none">
+<g>
 <path d="M1296 5110 c-38 -12 -75 -47 -92 -87 -12 -27 -14 -358 -14 -2015 0
 -1868 1 -1985 18 -2018 9 -19 32 -45 51 -57 l34 -23 510 0 509 0 -6 26 c-19
 75 -36 233 -36 339 0 399 157 783 440 1079 105 109 189 180 297 249 287 184

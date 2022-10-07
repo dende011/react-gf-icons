@@ -1,13 +1,10 @@
-<?xml version="1.0" standalone="no"?>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<svg version="1.1" id="FormIn" xmlns="http://www.w3.org/2000/svg"
   width="1em"
   height="1em"
   fill="currentColor"
-  viewBox="0 0 512.000000 512.000000"
- preserveAspectRatio="xMidYMid meet">
+  viewBox="0 0 512.000000 512.000000">
 
-<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
- stroke="none">
+<g>
 <path d="M1613 4945 c-85 -23 -153 -64 -220 -130 -63 -63 -116 -155 -129 -222
 l-6 -33 -242 0 c-133 0 -269 -5 -302 -11 -186 -34 -350 -195 -384 -378 -6 -35
 -10 -679 -10 -1820 0 -1926 -3 -1816 56 -1933 34 -67 135 -168 202 -202 115
