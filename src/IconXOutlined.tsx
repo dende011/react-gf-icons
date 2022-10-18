@@ -4,13 +4,10 @@ function SvgIconXOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       id="Capa_1"
-      x={0}
-      y={0}
       width="1em"
       height="1em"
       fill="currentColor"
       viewBox="0 0 1080 1080"
-      xmlSpace="preserve"
       {...props}
     >
       <path
