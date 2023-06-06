@@ -26,8 +26,8 @@
     "generate:icons": "svgr --icon --typescript --svgo-config ./scripts/svgoConfig.json -d ./src ./resources/icons"
   },
   "peerDependencies": {
-    "react": ">= 16.14.0 < 2",
-    "react-dom": ">= 16.14.0 < 2"
+    "react": ">= 16.13.0 < 3",
+    "react-dom": ">= 16.13.0 < 3"
   },
   "devDependencies": {
     "@svgr/babel-plugin-remove-jsx-attribute": "^5.4.0",
