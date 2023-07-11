@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconTecho(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -23,5 +22,4 @@ function SvgIconTecho(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconTecho;

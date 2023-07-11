@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconNoteColorOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg id="svg" width="1em" height="1em" viewBox="0 0 400 400" {...props}>
@@ -33,5 +32,4 @@ function SvgIconNoteColorOutlined(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconNoteColorOutlined;

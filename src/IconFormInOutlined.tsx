@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconFormInOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -14,5 +13,4 @@ function SvgIconFormInOutlined(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconFormInOutlined;

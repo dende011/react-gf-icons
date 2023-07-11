@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconFilePdfOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -21,5 +20,4 @@ function SvgIconFilePdfOutlined(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconFilePdfOutlined;

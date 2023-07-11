@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconBetterPriceOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -15,5 +14,4 @@ function SvgIconBetterPriceOutlined(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconBetterPriceOutlined;

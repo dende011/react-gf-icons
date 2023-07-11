@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconHeartOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -13,5 +12,4 @@ function SvgIconHeartOutlined(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconHeartOutlined;

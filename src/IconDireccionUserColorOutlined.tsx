@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconDireccionUserColorOutlined(
   props: React.SVGProps<SVGSVGElement>
 ) {
@@ -35,5 +34,4 @@ function SvgIconDireccionUserColorOutlined(
     </svg>
   );
 }
-
 export default SvgIconDireccionUserColorOutlined;

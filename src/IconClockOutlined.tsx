@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconClockOutlined(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -24,5 +23,4 @@ function SvgIconClockOutlined(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconClockOutlined;

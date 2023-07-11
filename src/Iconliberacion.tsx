@@ -1,5 +1,4 @@
 import * as React from "react";
-
 function SvgIconliberacion(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
@@ -14,5 +13,4 @@ function SvgIconliberacion(props: React.SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
-
 export default SvgIconliberacion;
